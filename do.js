@@ -122,7 +122,7 @@
           });
           clearInterval(timer);
           process.stdout.write(this.serveMsg);
-        }, 500);
+        }, 200);
       }
       if (data.includes('Angular')) {
         this.serveMsg = `${data}`;
@@ -167,7 +167,7 @@
           });
           clearInterval(timer);
           process.stdout.write(`\n${data}`);
-        }, 500);
+        }, 200);
       }
     });
     command.stderr.on('error', (data) => {
