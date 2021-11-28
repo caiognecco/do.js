@@ -1,5 +1,5 @@
 # do.js
-Node.js - Menu interface to Serve/Build nx.dev monorepo apps (Angular and JSON) - based on nx.json and tags, uses spinnies prompts and child_processes
+Node.js - Menu interface to Serve/Build nx.dev monorepo apps (Angular and Nest.js) - based on nx.json and tags, uses spinnies prompts and child_processes
 
 0. *Important 
 
